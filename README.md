@@ -1,4 +1,4 @@
-# 📝 BucketByte | AWS Lambda    
+# 📝 BucketBite | AWS Lambda    
 Its an **AI-powered blog generator** that creates **high-quality blog posts** using **Amazon Bedrock**. 🚀  
 The generated blogs are **saved in an S3 bucket** in **Markdown format** and can be accessed via **pre-signed URLs**.  
 
